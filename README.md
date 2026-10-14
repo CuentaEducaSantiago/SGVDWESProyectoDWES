@@ -1,4 +1,4 @@
-# SGVDWESProyectoTema3
+# SGVDWESProyectoDWES
 
 Temas: 
 * [CARACTERÍSTICAS DEL LENGUAJE PHP](https://github.com/CuentaEducaSantiago/106LMSGIUnidad3)
